@@ -1,7 +1,6 @@
 # temario
 temario
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
-<img width="239" height="155" alt="image" src="https://github.com/user-attachments/assets/48a9bc3f-061c-4707-91df-4a89b2b4c010" />
 
 1.-Introducción al desarrollo web
 Historia y evolución del desarrollo web
@@ -136,9 +135,9 @@ Autenticación y autorización
 
 **Resumen:**  
 Este propósito aborda el desarrollo tanto del frontend como del backend, el manejo e integración con bases de datos, y la incorporación de prácticas básicas de seguridad en aplicaciones web.
+<img width="239" height="155" alt="image" src="https://github.com/user-attachments/assets/48a9bc3f-061c-4707-91df-4a89b2b4c010>" />
 
 Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
-<img width="291" height="163" alt="image" src="https://github.com/user-attachments/assets/ae3a928f-5ea3-4c1a-9603-9e3945777d0f" />
 
 1. -Integración de frontend y backend
 Interfaz de usuario Frontend
@@ -203,3 +202,4 @@ Documentación del proyecto
 
 **Resumen:**  
 Este propósito se centra en la conexión entre frontend y backend, el uso y gestión de servidores y almacenamiento, así como en la optimización, automatización y documentación necesarias para desplegar una aplicación web funcional y eficiente.
+<img width="291" height="163" alt="image" src="https://github.com/user-attachments/assets/ae3a928f-5ea3-4c1a-9603-9e3945777d0f" />
